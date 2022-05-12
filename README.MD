@@ -1,4 +1,5 @@
 # DUO Git Repos
+----------------------------------------------------------------
 
 Open your terminal and cd into `~/.ssh`
 
