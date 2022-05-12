@@ -81,10 +81,22 @@ Cloning down github repos will be of the following:
 
 
 
-For each repo you can change.
+Inside each repo you can when you are using a different user you will use 
 
-`git config --add user.email someone@domain.com` to add/override user email in given repo
-`git config --unset user.email someone@domain.com` to remove user email entry in given repo
+```
+git config user.name "user1"
+git config user.email "user1@email.com"
+```
+
+if you are using VS code's terminal to set the different user, and get an error message saying the permission is denied, you will need to restart your VS code or use and outside terminal 
+
+
+
+
+
+
+
+
 
 
 
